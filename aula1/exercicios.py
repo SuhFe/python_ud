@@ -1,5 +1,7 @@
-contador = 10
+contador = 1
 
-while contador <= 50 :
-    print (contador)
-    contador += 10
+while contador < 6:
+    print(contador)
+    contador += 1
+
+print ("Feliz Aniversário!")
