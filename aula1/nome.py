@@ -4,7 +4,7 @@ print ("2.Fernanda")
 print ("3.Manuela")
 
 
-nome = int (input (")Qual nome voce prefere?"))
+nome = int (input ("(Qual nome voce prefere?"))
 
 if nome == 1 :
    print ("Olá Suzana, que nome lindo.")
